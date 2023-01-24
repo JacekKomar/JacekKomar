@@ -11,10 +11,10 @@
 
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacekkomar&show_icons=true&locale=en" alt="jacekkomar" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacekkomar&show_icons=true&theme=radical" alt="jacekkomar" /></p>
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacekkomar=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacekkomar&show_icons=true&locale=en&layout=compact" alt="jacekkomar" /></p>
 
 
 

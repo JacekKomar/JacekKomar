@@ -11,7 +11,7 @@
 
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacekkomar&show_icons=true&theme=merko" alt="jacekkomar" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacekkomar&show_icons=true&theme=gruvbox" alt="jacekkomar" /></p>
 
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacekkomar&show_icons=true&locale=en&layout=compact" alt="jacekkomar" /></p>

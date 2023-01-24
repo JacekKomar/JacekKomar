@@ -11,7 +11,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/JacekKomar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JacekKomar" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacekkomar&show_icons=true&locale=en" alt="jacekkomar" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacekkomar&show_icons=true&locale=en&layout=compact" alt="jacekkomar" /></p>
 
 

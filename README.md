@@ -1,7 +1,4 @@
-### Hello there 👋
-
-
-<h1 align="center">Hi 👋, I'm Jacek Komar</h1>
+<h1 align="center">Hello there 👋, I'm Jacek Komar</h1>
 <h3 align="center">Beginner software tester who creates websites in his spare time.</h3>
 
 <h3 align="left">Connect with me:</h3>

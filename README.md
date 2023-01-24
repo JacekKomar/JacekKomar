@@ -1,7 +1,5 @@
 ### Hello there 👋
 
-<!--
-**JacekKomar/JacekKomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Jacek Komar</h1>
 <h3 align="center">Beginner software tester who creates websites in his spare time.</h3>
@@ -24,4 +22,4 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacekKomar&theme=radical)
+

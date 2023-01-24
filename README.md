@@ -10,11 +10,11 @@
 
 
 <br><br>
-<div style=""display: flex flex-direction: row"">
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jacekkomar&show_icons=true&locale=en" alt="jacekkomar" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacekkomar&show_icons=true&locale=en&layout=compact" alt="jacekkomar" /></p>
-</div>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jacekkomar&show_icons=true&locale=en" alt="jacekkomar" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacekkomar&show_icons=true&locale=en&layout=compact" alt="jacekkomar" /></p>
+
 
 
 
